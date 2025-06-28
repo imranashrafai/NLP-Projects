@@ -58,28 +58,6 @@ Each project directory contains its own `README.md` with setup steps:
 
 ---
 
-## 📁 Typical Folder Structure
-
-```
-NLP-Projects/
-├── sentiment_analysis/
-│   ├── sentiment_analysis.ipynb
-│   └── data/
-├── text_summarization/
-│   ├── extractive.ipynb
-│   └── abstractive.ipynb
-├── ner/
-│   ├── ner_pipeline.ipynb
-│   └── models/
-├── chatbot/
-│   ├── chatbot.ipynb
-│   └── intents.json
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🔧 Common Dependencies
 
 ```txt
